@@ -3,7 +3,11 @@
 import 'dart:io' show stdin;
 
 main() {
-//pegar o peso
+  CalculoIMC();
+}
+
+CalculoIMC() {
+  //pegar o peso
   print("=====CALCULADORA DE IMC=====");
   print(" ");
   print(" ");
